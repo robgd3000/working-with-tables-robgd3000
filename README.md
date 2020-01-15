@@ -4,7 +4,7 @@ HTML tables are sometimes misused as a styling technique, but they are designed 
 
 This project will require the use of well structured, semantic HTML & CSS to create a project similar to [this](https://dean-schedule.netlify.com).
 
-You are free to give the project your own style, or utilize the resources provided. Challenge yourself to change the design as much as you would like and select a sporting team of your choice or utilize the resources provided [here](http://link) 
+You are free to give the project your own style, or utilize the resources provided. Challenge yourself to change the design as much as you would like and select a sporting team of your choice or utilize the resources provided [here](https://drive.google.com/drive/folders/1QXIqkNGEUcbl2HspMU-jPU4vCPLUT7eb?usp=sharing) 
 
 Be sure you have met the requirements of each of the user stories. Push your completed project to GitHub and submit a pull request to the Master Branch when you are ready to submit.
 
@@ -33,7 +33,7 @@ Make design decisions about how the final project will look and behave FIRST!
 
 2. In your bash terminal, use the necessary commands to clone this repo to your local *projects* directory
 
-3. Gather any image assets you plan to use to complete the project. You may use any of the resources [here](http://newlinkhere.com) by downloading the resources and adding them to the project's images directory. Alternatively, you may utilize your own resources.
+3. Gather any image assets you plan to use to complete the project. You may use any of the resources [here](https://drive.google.com/drive/folders/1QXIqkNGEUcbl2HspMU-jPU4vCPLUT7eb?usp=sharing) by downloading the resources and adding them to the project's images directory. Alternatively, you may utilize your own resources.
     + Remember to compress your image assets
 
 3. Start Coding!
