@@ -51,3 +51,19 @@ table {
 td {
     height: 70px;
 }
+.home {
+    color: yellow;
+}
+.away {
+    color: green;
+}
+.team {
+    color: brown;
+}
+footer {
+    text-align: center;
+}
+footer img{
+    width: 100px;
+    height: 100px;
+}
