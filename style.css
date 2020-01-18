@@ -1,0 +1,39 @@
+body {
+    background-color:royalblue;
+}
+.logo-header img {
+    width: 70px;
+    height: 50px;
+}
+.logo-header{
+    display: inline;
+}
+.nav {
+    float: right;
+    padding: 10px;
+    
+
+}
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+.main {
+    text-align: center;
+    background-color: red;
+}
+.words {
+    margin: 0px;
+    background-color: pink;
+    text-align: center;
+}
+.words img{
+    width: 50%
+}
+.schedule {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 70px;
+    margin: 0px;
+}
